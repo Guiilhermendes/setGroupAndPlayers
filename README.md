@@ -70,4 +70,4 @@ src/
 - `npm web`: Inicia o aplicativo no navegador.
 
 ---
-Desenvolvido com 💙 por [Guilherme Mendes].
+Desenvolvido com 💙 por Guilherme Mendes.
